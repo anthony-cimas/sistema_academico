@@ -1,0 +1,17 @@
+<! DOCTYPE html >
+< html >
+< cabeza >
+	< título > Sistema Académico </ título >
+</ cabeza >
+< cuerpo >
+
+< h3 > REGISTRO DE Carreras </ h3 >
+
+	< ul >
+		< li > Computación </ li >
+		< li > Secretariado </ li >
+		< li > Contabilidad </ li >
+		< li > Administracion </ li >
+	</ ul >
+</ cuerpo >
+</ html >
